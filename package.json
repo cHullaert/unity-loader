@@ -1,0 +1,25 @@
+{
+  "name": "unity-loader",
+  "version": "1.0.9",
+  "description": "loader for unity application",
+  "main": "UnityLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cHullaert/unity-loader.git"
+  },
+  "keywords": [
+    "unity",
+    "loader",
+    "npm",
+    "angular"
+  ],
+  "author": "Christof Hullaert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cHullaert/unity-loader/issues"
+  },
+  "homepage": "https://github.com/cHullaert/unity-loader#readme"
+}
